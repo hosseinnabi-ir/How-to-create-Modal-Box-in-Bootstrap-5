@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal .modal-body {
+    text-align: center;
+}
+
+.modal .modal-body video {
+    width: 100%;
+}
+
+.modal .modal-body h5 {
+    margin-top: 12px;
+}
+
+.modal .modal-body p {
+    margin: -6px 0 0;
+}
